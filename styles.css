@@ -1,0 +1,40 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-image: url(forest_lake.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    color: white;
+}
+#forest_path {
+    padding-top: 5%;
+    height: 500px;
+    width: auto;
+    margin-left: 3%;
+    
+}
+#Historical_Walkway{
+    margin-left: 3%;
+
+} 
+#forest_bridge{
+    padding-top: 10% ;
+    height: 500px;
+    width: 600px;
+    margin-left: 50%;
+    
+}
+#Mossy_Bridge{
+    padding-bottom: 15%;
+    margin-left: 50%;
+}
+#Map{
+    margin-left: 25%;
+    padding-bottom: 5% ;
+}
+#forest_map{
+    width: auto;
+    height: 500px;
+    margin-left: 25%;
+    padding-top: auto;
+}
